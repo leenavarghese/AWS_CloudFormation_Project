@@ -15,4 +15,4 @@ The aim of this project is to go through an exercise of writing a CloudFormation
 
 
 ## REFERENCES
-* To view all the supported AWS resources and their properties, see the [DOCUMENTATION](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-reference.html)
+* To view all the supported AWS resources and their properties, see the [Template Reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-reference.html)
